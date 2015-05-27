@@ -22,8 +22,7 @@ What is the value of the first triangle number to have over
 five hundred divisors?
 */
 
-#include <stdio.h>
-#include <stdbool.h>
+#include "ProjectEuler.h"
 
 int divisorcount(int val);
 void inctrianglenum(int* current, int n);

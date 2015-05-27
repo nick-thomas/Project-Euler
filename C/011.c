@@ -34,7 +34,7 @@ to compute products so that main can simply consists of a few function
 calls and not much else.
 */
 
-#include <stdio.h>
+#include "ProjectEuler.h"
 
 int main()
 {

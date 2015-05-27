@@ -104,7 +104,7 @@ following one-hundred 50-digit numbers.
 53503534226472524250874054075591789781264330331690
 */
 
-#include <stdio.h>
+#include "ProjectEuler.h"
 
 int main()
 {

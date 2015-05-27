@@ -9,8 +9,7 @@ ispalindrome function currently only works for 6 digit values.
 To be more complete, it should work for 5 and 6 digit values.
 */
 
-#include <stdio.h>
-#include <stdbool.h>
+#include "ProjectEuler.h"
 
 bool ispalindrome(int val);
 int largest = 0;

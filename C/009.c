@@ -13,8 +13,7 @@ TODO: Program takes a while to complete.
 Shorten by shortening the looping algorithm.
 */
 
-#include <stdio.h>
-#include <stdbool.h>
+#include "ProjectEuler.h"
 
 bool istriplet(int a, int b, int c);
 bool sumis1000(int a, int b, int c);

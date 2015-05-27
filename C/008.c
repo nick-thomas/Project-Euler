@@ -27,8 +27,7 @@ Find the thirteen adjacent digits in the 1000-digit number
 that have the greatest product. What is the value of this product?
 */
 
-#include <stdio.h>
-#include <stdint.h>
+#include "ProjectEuler.h"
 
 int main()
 {

@@ -5,8 +5,7 @@ we can see that the 6th prime is 13.
 What is the 10 001st prime number?
 */
 
-#include <stdio.h>
-#include <stdbool.h>
+#include "ProjectEuler.h"
 
 bool isprime(long long int val);
 
